@@ -1,0 +1,3 @@
+
+
+web: java -Dserver.port=$PORT -jar target/HospitalMngbcd.jar
